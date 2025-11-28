@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+*.o
+*.d
+*.asm
+*.sym
+fs.img
+kernel/kernel
+user/usertests
+user/_*
+mkfs/mkfs
+.gdbinit
